@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>ICDAR-2013-Table-Competition-Corrected_competition-dataset-eu_eu-007_table_2.jpg</filename>
+   <path>ICDAR-2013-Table-Competition-Corrected_competition-dataset-eu_eu-007_table_2.jpg</path>
+   <source>
+      <database>ICDAR-2013-C-Structure</database>
+   </source>
+   <size>
+      <width>450</width>
+      <height>43</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>4.225275542560496</xmin>
+         <ymin>3.887472193484598</ymin>
+         <xmax>443.98221716801515</xmax>
+         <ymax>37.297515071769226</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column header</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>4.225275542560496</xmin>
+         <ymin>3.887472193484598</ymin>
+         <xmax>443.98221716801515</xmax>
+         <ymax>20.59249363262694</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table row</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>4.225275542560496</xmin>
+         <ymin>3.887472193484598</ymin>
+         <xmax>443.98221716801515</xmax>
+         <ymax>20.59249363262694</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table row</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>4.225275542560496</xmin>
+         <ymin>20.59249363262694</ymin>
+         <xmax>443.98221716801515</xmax>
+         <ymax>37.297515071769226</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>4.225275542560496</xmin>
+         <ymin>3.887472193484598</ymin>
+         <xmax>190.87654617563277</xmax>
+         <ymax>37.297515071769226</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>190.87654617563277</xmin>
+         <ymin>3.887472193484598</ymin>
+         <xmax>340.209820455157</xmax>
+         <ymax>37.297515071769226</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>340.209820455157</xmin>
+         <ymin>3.887472193484598</ymin>
+         <xmax>443.98221716801515</xmax>
+         <ymax>37.297515071769226</ymax>
+      </bndbox>
+   </object>
+</annotation>
